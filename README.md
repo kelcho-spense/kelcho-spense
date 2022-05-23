@@ -4,9 +4,7 @@
 - 📫 How to reach me: https://twitter.com/spense_kelcho , https://www.instagram.com/kelcho_spense, https://medium.com/@kevin_comba ,https://www.linkedin.com/in/kevin-comba-152b06227/ ,https://www.facebook.com/kelcho.spense/
 - ⚡ Fun fact: I can swim all competitive strokes
 
-# Medium Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcho-spense&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcho-spense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -55,3 +53,6 @@
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
+# Medium Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

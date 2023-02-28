@@ -1,7 +1,7 @@
 # Hi there 👋,I'm kevin Comba ... a web developer
-- 🌱 I’m currently learning MERN STACK(mongo,express,react,node)
-- 💬 Ask me about React,express,Mongo,Firebase,MySQL,PHP,Bootstrap
-- 📫 How to reach me: https://twitter.com/_kevincomba , https://www.instagram.com/kelcho_spense, https://medium.com/@kevin_comba ,https://www.linkedin.com/in/kevin-comba-gatimu/ ,https://www.facebook.com/kelcho.spense/
+- 🌱 I’m currently learning MERN STACK(mongo,express,react,node) & [writting simplified technical blogs](https://medium.com/@kevin_comba)
+- 💬 Ask me about React,express,Mongo,Firebase,MySQL, Microsoft Azure
+- 📫 Check out my latest blog on [How to Use GitHub Copilot Labs to improve your Code Quality and Productivity](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-github-copilot-labs-to-improve-your-code-quality-and/ba-p/3743021?wt.mc_id=studentamb_225706)
 - ⚡ Fun fact: I can swim all competitive strokes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcho-spense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,7 +1,9 @@
 # Hi there 👋,I'm kevin Comba ... a web developer
 - 🌱 I’m currently learning MERN STACK(mongo,express,react,node) & [writting simplified technical blogs](https://medium.com/@kevin_comba)
 - 💬 Ask me about React,express,Mongo,Firebase,MySQL, Microsoft Azure
-- 📫 Check out my latest blog on [How to Use GitHub Copilot Labs to improve your Code Quality and Productivity](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-github-copilot-labs-to-improve-your-code-quality-and/ba-p/3743021?wt.mc_id=studentamb_225706)
+- 📫 Check out my latest Microsoft Techinical blogs:
+  - [How to Use GitHub Copilot Labs to improve your Code Quality and Productivity](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-github-copilot-labs-to-improve-your-code-quality-and/ba-p/3743021?wt.mc_id=studentamb_225706)
+  - [An Introduction to Microsoft Graph SDK and How to Create a To-Do List Using JavaScript](https://techcommunity.microsoft.com/t5/educator-developer-blog/an-introduction-to-microsoft-graph-sdk-and-how-to-create-a-to-do/ba-p/3779340?wt.mc_id=studentamb_225706)
 - ⚡ Fun fact: I can swim all competitive strokes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcho-spense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,6 +31,7 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 - 🎈 Hosting/SaaS <br/>
+![AzureDevOps](https://camo.githubusercontent.com/0e86f1762fab93430da0825c20352b3cb424a65f9daa1a6073e3022a94c6dbef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b417a75726526636f6c6f723d303037384434266c6f676f3d4d6963726f736f66742b417a757265266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)

@@ -1,7 +1,7 @@
 # Hi there 👋,I'm kevin Comba ... a web developer
 - 🌱 I’m currently learning MERN STACK(mongo,express,react,node) & [writting simplified technical blogs](https://medium.com/@kevin_comba)
 - 💬 Ask me about React,express,Mongo,Firebase,MySQL, Microsoft Azure
-- 📫 Check out my latest Microsoft Techinical blogs:
+- 📫 Check out my latest Microsoft Technical blogs:
   - [How to Use GitHub Copilot Labs to improve your Code Quality and Productivity](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-github-copilot-labs-to-improve-your-code-quality-and/ba-p/3743021?wt.mc_id=studentamb_225706)
   - [An Introduction to Microsoft Graph SDK and How to Create a To-Do List Using JavaScript](https://techcommunity.microsoft.com/t5/educator-developer-blog/an-introduction-to-microsoft-graph-sdk-and-how-to-create-a-to-do/ba-p/3779340?wt.mc_id=studentamb_225706)
 - ⚡ Fun fact: I can swim all competitive strokes

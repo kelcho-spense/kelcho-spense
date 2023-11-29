@@ -1,5 +1,5 @@
 # Hi there 👋,I'm kevin Comba ... a web developer
-- 🌱 I’m currently learning MERN STACK(mongo,express,react,node) & [writting simplified technical blogs](https://medium.com/@kevin_comba)
+- 🌱 I’m currently learning Dotnet(ASP.net & Blazor) & [writting simplified technical blogs](https://medium.com/@kevin_comba)
 - 💬 Ask me about React,express,Mongo,Firebase,MySQL, Microsoft Azure
 - 📫 Check out my latest Microsoft Technical blogs:  
   - [Creating an Images Gallery with Azure Blob Storage and React.js | Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/creating-an-images-gallery-with-azure-blob-storage-and-react-js/ba-p/3892092?wt.mc_id=studentamb_225706)

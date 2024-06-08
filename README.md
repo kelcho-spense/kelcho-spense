@@ -1,25 +1,23 @@
 # Hi there 👋,I'm kevin Comba ... a web developer
 - 🌱 I’m currently software developer, technical trainer & [technical writter at techcommunity.microsoft.com](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363)
-- 💬 Ask me about React,express,Mongo,Firebase,MySQL, Microsoft Azure
-- 📫 Check out my latest Microsoft Technical blogs:  
-  - [Creating an Images Gallery with Azure Blob Storage and React.js | Step-by-Step Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/creating-an-images-gallery-with-azure-blob-storage-and-react-js/ba-p/3892092?wt.mc_id=studentamb_225706)
-  - [A Comprehensive Guide to Getting Started with Data API Builder for Azure SQL Database or SQL Server](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-comprehensive-guide-to-getting-started-with-data-api-builder/ba-p/3865890?wt.mc_id=studentamb_225706)
-  - [How to Use GitHub Copilot Labs to improve your Code Quality and Productivity](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-use-github-copilot-labs-to-improve-your-code-quality-and/ba-p/3743021?wt.mc_id=studentamb_225706)
-  - [An Introduction to Microsoft Graph SDK and How to Create a To-Do List Using JavaScript](https://techcommunity.microsoft.com/t5/educator-developer-blog/an-introduction-to-microsoft-graph-sdk-and-how-to-create-a-to-do/ba-p/3779340?wt.mc_id=studentamb_225706)
+- 💬 Ask me about React, Hono, Drizzle, Express, Postgres, MsSQL, Mongo, Firebase, MySQL, Microsoft Azure
+- 📫 Check out my latest [techcommunity.microsoft.com blogs]((https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363))
+  
 - ⚡ Fun fact: I can swim all competitive strokes
 
+- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcho-spense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcho-spense&show_icons=true&theme=radical)    
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcho-spense&show_icons=true&theme=radical)     
 - 📋 Languages <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 - 📚 Frameworks, Platforms and Libraries <br/>
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -37,6 +35,7 @@
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 - 🎈 Hosting/SaaS <br/>
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -46,16 +45,15 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-- Blogs <br/>
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 - 💻 IDEs/Editors <br/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 - 💾 Databases <br/>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 🫙Containers-
+- 🫙Containers <br/>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 

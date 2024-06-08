@@ -1,11 +1,8 @@
 # Hi there 👋,I'm kevin Comba ... a web developer
 - 🌱 I’m currently software developer, technical trainer & [technical writter at techcommunity.microsoft.com](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363)
 - 💬 Ask me about React, Hono, Drizzle, Express, Postgres, MsSQL, Mongo, Firebase, MySQL, Microsoft Azure
-- 📫 Check out my latest [techcommunity.microsoft.com blogs]((https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363))
-  
+- 📫 Check out my latest [techcommunity.microsoft.com blogs](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363)
 - ⚡ Fun fact: I can swim all competitive strokes
-
-- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelcho-spense&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelcho-spense&show_icons=true&theme=radical)    

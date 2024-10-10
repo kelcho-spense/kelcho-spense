@@ -1,4 +1,5 @@
-# Hi there 👋,I'm kevin Comba ... a web developer
+# Hi there 👋, I'm kevin Comba ... a web developer
+- 🎉 Microsoft MVP (Web Development & Azure Cosmos DB)
 - 🌱 I’m currently software developer, technical trainer & [technical writter at techcommunity.microsoft.com](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363)
 - 💬 Ask me about React, Hono, Drizzle, Express, Postgres, MsSQL, Mongo, Firebase, MySQL, Microsoft Azure
 - 📫 Check out my latest [techcommunity.microsoft.com blogs](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363)
@@ -44,13 +45,4 @@
 
 - 💻 IDEs/Editors <br/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-- 💾 Databases <br/>
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- 🫙Containers <br/>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 

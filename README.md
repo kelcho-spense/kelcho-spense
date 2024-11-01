@@ -1,4 +1,4 @@
-# Hi there 👋, I'm kevin Comba ... a web developer
+# Hi there 👋,
 - 🎉 Microsoft MVP (Web Development & Azure Cosmos DB)
 - 🌱 I’m currently software developer, technical trainer & [technical writter at techcommunity.microsoft.com](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1602363)
 - 💬 Ask me about React, Hono, Drizzle, Express, Postgres, MsSQL, Mongo, Firebase, MySQL, Microsoft Azure
